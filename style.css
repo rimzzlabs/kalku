@@ -4,7 +4,7 @@
 
 @layer components {
   body {
-    @apply font-poppins overflow-x-hidden antialiased bg-gradient-to-br from-green-300 via-blue-500 to-indigo-500;
+    @apply font-poppins overflow-x-hidden antialiased bg-gradient-to-br from-white via-indigo-300 to-indigo-600;
   }
   button {
     @apply text-lg lg:text-xl w-full h-full rounded-md font-bold focus-within:outline-none hover:bg-white/25 active:bg-white/75 text-gray-900 select-none;
