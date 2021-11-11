@@ -1,0 +1,16 @@
+{
+  "name": "kalku",
+  "version": "0.1.0",
+  "description": "a simple calculator with JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./style.css -o ./tailwind.css -w"
+  },
+  "author": "Rizki Maulana Citra",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
